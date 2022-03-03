@@ -7,9 +7,10 @@
 
 ## About me:
 
+I am passionate about technology and I seek to make a difference through it.
+
 Studying horrors to be a fullstack developer 🤓
 
-I am passionate about technology and I seek to make a difference through it.
 
 ## Developed skills:
 
